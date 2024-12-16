@@ -1,0 +1,5 @@
+101,Paracetamol,fever,quantity: 38
+102,Cetrizine,cold,quantity: 15
+103,Domstal,vomiting,quantity: 10
+104,Dolo-650,fever,quantity: 25
+105,ORS,weakness,quantity: 30
